@@ -1,0 +1,1 @@
+# sholarship-predictor
